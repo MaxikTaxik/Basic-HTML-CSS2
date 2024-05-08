@@ -1,0 +1,139 @@
+* {
+  /* position: relative; */
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.top {
+  width: 1286px;
+  height: 908px;
+  margin: 2px auto 11px;
+}
+
+.top_header {
+  position: relative;
+  display: inline-block;
+  width: 1286px;
+  height: 88px;
+  margin: 14px auto 0;
+}
+
+.Home {
+  margin-left: 555px;
+}
+
+.top_content {
+  display: flex;
+  position: relative;
+  width: 1286px;
+  height: 537px;
+  margin: 60px auto 0;
+}
+
+.top_info {
+  position: relative;
+  width: 584px;
+  height: 412px;
+  margin: 46px auto auto 26px;
+  padding-bottom: 12px;
+}
+
+#Oval {
+  position: absolute;
+  overflow: visible;
+  margin-top: 86.5px;
+  margin-left: -21.4px;
+}
+
+#SEO {
+  position: absolute;
+  margin-top: 22.2px;
+  margin-right: 19.09px;
+}
+
+#Text {
+  margin-top: 254.4px;
+  margin-right: 74.84px;
+}
+
+.top_buttons {
+  /* margin-top: 325px; */
+  position: relative;
+  width: 378px;
+  height: 75px;
+}
+
+button.button {
+  width: 140px;
+  height: 50px;
+  border-radius: 30px;
+  margin-top: 12px;
+  margin-left: 23px;
+}
+#triangle {
+  position: absolute;
+  margin-top: 31.97px;
+  margin-left: 0px;
+}
+
+#circle {
+  position: absolute;
+  margin-top: 23.5px;
+  margin-right: 159.5px;
+}
+
+#Watch_video {
+  margin-top: 30.22px;
+  margin-right: 33.79px;
+}
+
+#Picture_of_content {
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 631px;
+  /* margin-right: 0px; */
+}
+.top_logos {
+  justify-content: space-between;
+  display: flex;
+  width: 1234px;
+  height: 154px;
+  margin-top: 44px;
+  margin-right: 28px;
+  margin-left: 24px;
+  padding: 0 16px;
+}
+
+.top_logo {
+  margin: 52px 0;
+}
+
+.header_image {
+  position: absolute;
+}
+
+#arrow {
+  margin: 25px 0 0 72px;
+}
+
+#Grow {
+  margin: 33.86px 0 0 121.89px;
+}
+
+#Be {
+  margin: 34.2px 0 0 181.76px;
+}
+.header_link {
+  display: inline-block;
+  margin-top: 37.2px;
+}
+
+#Home {
+  color: red;
+  margin-left: 555.98px;
+}
